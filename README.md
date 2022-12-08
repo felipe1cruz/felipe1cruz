@@ -7,8 +7,7 @@ Apaixonado por “compiuters” e tecnologia desde a adolescência quando:
 - Passava as madrugadas no IRC;
 - Baixava músicas no Napster;
 
-
-Hoje me rendi a essa paixão e estou em transição de carreira, estudando programação Full Stack na Trybe (com uma quedinha pelo backend =)) e a procura da minha primeira vaga de Desenvolvedor Junior. 🧠
+Após uma faculdade de administração, um premio de empreendedorismo (vice-campeão estadual do Desafio Sebrae 2010) e quase oito anos de servidor publico, me rendi a paixão por tecnolgia e resolvi trazer toda essa bagagem comigo para dar um 360 na carreira, e hoje volto a posição de estudante (e em busca do primeiro emprego como programador =) ) no curso de programação Full Stack na Trybe.
 
 ## O que eu sei (até agora) :computer:
 	- ReactJS
@@ -18,6 +17,8 @@ Hoje me rendi a essa paixão e estou em transição de carreira, estudando progr
 	- MySQL
 	- Sequelize
 	- POO
+	- Typescript
+	
 [![Felipe M. da Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe1cruz)](https://github.com/felipe1cruz/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe1cruz)](https://github.com/anuraghazra/github-readme-stats)
