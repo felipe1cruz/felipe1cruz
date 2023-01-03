@@ -24,6 +24,7 @@ Hoje estou em um período do curso no qual já temos uma grande bagagem de apren
 	- POO
 	- SOLID
 	- Typescript
+	- MongoDB
 	
 [![Felipe M. da Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe1cruz)](https://github.com/felipe1cruz/github-readme-stats)
 
