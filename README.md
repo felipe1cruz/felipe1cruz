@@ -13,7 +13,7 @@ Hoje estou em um período do curso no qual já temos uma grande bagagem de apren
 
 ## O que eu sei (até agora) :computer:
 	- HTML / CSS
-	- Javascript Vanilla
+	- Javascript
 	- React
 	- RTL - React Testing Library
 	- Node.js
