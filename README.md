@@ -24,14 +24,13 @@
 </table>
 	
 ## Quem sou eu :mortar_board:
-Apaixonado por “compiuters” e tecnologia desde a adolescência quando: 
-- Desmontava o HD e colocava em modo ‘slave’ para levar na casa dos amigos trocar jogos e músicas;
-- Passava as madrugadas no IRC;
-- Baixava músicas no Napster;
+Desde a adolescência, sou apaixonado por "computers" e tecnologia. Lembro-me de desmontar meu HD e colocá-lo em modo 'slave' para levar à casa dos amigos e trocar jogos e músicas. As madrugadas eram passadas no IRC, baixando músicas no Napster. Apesar de ter uma formação em administração e ter trabalhado como servidor público por quase oito anos, finalmente decidi seguir minha paixão pela tecnologia e trazer toda a minha bagagem comigo para uma reviravolta na carreira.
 
-Após uma faculdade de administração, um prêmio de empreendedorismo e quase oito anos como servidor público, me rendi a paixão por tecnolgia e resolvi trazer toda essa bagagem comigo para dar um 360 na carreira, e hoje volto a posição de aprendiz no curso de programação Full Stack na Trybe.
+Com orgulho, posso dizer que me formei na Trybe como desenvolvedor Web Full Stack, e atualmente estou focado no estudo de Java e AWS. Procuro uma posição como desenvolvedor web em uma empresa inovadora, onde possa colaborar na construção de APIs, utilizar tecnologias modernas e realizar análises e manutenções em sistemas existentes. Além disso, estou sempre em busca de atualização constante, acompanhando as tendências do setor.
 
-Hoje estou em um período do curso no qual já temos uma grande bagagem de aprendizado e é permitido a flexibilização do horário do curso para trabalhar, estou a procura, empolgado e ansioso pela primeira oportunidade como dev!
+Durante o curso na Trybe, adquiri habilidades em diversas tecnologias relevantes para o desenvolvimento web. Meu conhecimento inclui muito Javascript, Node.js, React, Typescript, Python, testes, bancos de dados relacionais e não relacionais.
+
+O que me impulsiona é a paixão pelo aprendizado contínuo e o desejo de evoluir constantemente como profissional. Estou entusiasmado para enfrentar desafios, contribuir para projetos empolgantes e fazer parte de uma equipe que compartilha meu compromisso com a inovação.
 
 ## Tecnologias que tenho trabalhado: :computer:
 <div>
