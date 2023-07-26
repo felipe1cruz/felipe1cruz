@@ -8,15 +8,15 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/felipe1cruz" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/github.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/felipe1cruz" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:piradous@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/gmail.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:piradous@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5545998172491" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/wpp.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5545998172491" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/wpp.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/dacruzfelipe/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/insta.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/dacruzfelipe/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/dacruzfelipe/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/master/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/dacruzfelipe/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin.png" width="50px" height="50px"/></a>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
