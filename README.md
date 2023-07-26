@@ -1,5 +1,5 @@
 <div>
-<img align="center" alt="Header" src="https://github.com/felipe1cruz/felipe1cruz/blob/main/Create%20a%20creati%201.png"/>
+<img align="center" alt="Header" src="https://github.com/felipe1cruz/felipe1cruz/blob/main/capa%20linkedin.jpeg"/>
 </div>
 -----
 <div>
